@@ -1,8 +1,15 @@
-# Access Aid is an app to help individuals with disabilities to find businesses that can cater to their needs
+# Access Aid
+
+Helping individuals with disabilities to find locations/businesses that can cater to their needs.
 
 -----------------------------------------------------------------------------
 
-![alt text](https://i2.wp.com/wheelchairtravel.org/wp-content/uploads/2020/06/popup-feature-1.jpg?fit=760%2C440&ssl=1 "No Limits")
+![Home Page with map](https://github.com/alexkinsey/Access_Aid/blob/main/images/Home.png "Home Page with map")
+![Location Page](https://github.com/alexkinsey/Access_Aid/blob/main/images/Location.png "Location Page")
+
+-----------------------------------------------------------------------------
+
+This web application allows individuals to search and filter locations/businesses in a map and list view to help find a location/business which suites their needs. Users can also view and leave reviews. Data is provided by the community from real world experiences. 
 
 -----------------------------------------------------------------------------
 
